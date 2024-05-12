@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "Hassan Magaji FE/23/49958104",
+  "author": "surajo hussaini FE/23/72205576",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
