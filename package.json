@@ -4,7 +4,7 @@
   "description": "3MTT Backend Engineering Assessement",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server"
   },
   "keywords": [],
   "author": "Hassan Magaji FE/23/49958104",
