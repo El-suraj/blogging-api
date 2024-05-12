@@ -4,7 +4,7 @@
   "description": "3MTT Backend Engineering Assessement",
   "main": "app.js",
   "scripts": {
-    "start": "node server"
+    "start": "node app"
   },
   "keywords": [],
   "author": "Hassan Magaji FE/23/49958104",
